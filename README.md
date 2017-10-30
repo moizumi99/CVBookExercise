@@ -13,3 +13,5 @@ The scripts require external modules, which are explained in the book. Please do
 
 Some codes need test data not described in the book. So, I downloaded them from here and there. As these files belong to someone else, I did not include those files in this repository. Please download them from the URL described in each file.
 
+
+The files in Jupyter Notebook format. They python version used is 2.7, because that's the version used in the book.
